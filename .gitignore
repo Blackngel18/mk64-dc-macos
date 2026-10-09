@@ -1,0 +1,16 @@
+# Nunca subir material con derechos de autor: ROM, disco generado ni datos extraidos.
+rom/
+salida/
+*.z64
+*.n64
+*.v64
+*.cdi
+*.iso
+*.elf
+*.bin
+
+# Archivos locales
+logs/
+LEEME.txt
+.DS_Store
+.fuse_hidden*
